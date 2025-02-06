@@ -1,4 +1,4 @@
-# Email Spam Classification Application
+# SMS Spam Detection System Using NLP
 
 This is a Machine Learning application designed to classify emails as **Spam** or **Ham** (Not Spam). The project uses natural language processing (NLP) techniques and machine learning algorithms to accurately identify spam emails.
 
